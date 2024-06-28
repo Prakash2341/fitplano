@@ -1,0 +1,67 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.log {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.get_started,
+.feedback {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.or {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.App-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.feedback-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.feedback-input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit-feedback {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.feed {
+    color: black;
+}
